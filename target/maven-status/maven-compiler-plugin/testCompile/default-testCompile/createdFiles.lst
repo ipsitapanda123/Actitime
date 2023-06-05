@@ -1,0 +1,15 @@
+com\actitime\pages\ActitimeLoginPage.class
+com\actitime\generics\AutoConstant.class
+com\actitime\generics\BasePage.class
+com\actitime\testcases\TC2_CreateCustomerLogout.class
+com\actitime\testcases\TC3_CreateWorkLogout.class
+com\actitime\pages\ActitimeTasksPage.class
+com\actitime\generics\Screenshot.class
+com\actitime\pages\ActitimeCreateNewCustomerPage.class
+com\actitime\pages\ActitimeTypesOfWorkPage.class
+com\actitime\pages\ActitimeHomePage.class
+com\actitime\generics\BaseTest1.class
+com\actitime\pages\ActitimeCreateNewTypeOfWorkPage.class
+com\actitime\testcases\TC1_ActitimeLoginLogout.class
+com\actitime\generics\ExcelLibrary.class
+com\actitime\pages\ActitimeSettingsPage.class
