@@ -3,7 +3,10 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
+      <class name="com.actitime.testcases.TC3_CreateWorkLogout"/>
+      <class name="com.actitime.testcases.TC2_CreateCustomerLogout"/>
       <class name="com.actitime.testcases.TC1_ActitimeLoginLogout"/>
+      <class name="com.actitime.testcases.TC4_GitihubPushDemo"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
